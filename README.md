@@ -105,4 +105,4 @@ Models were evaluated using:
 
 ## Author
 - Rakshit Kumar
-- Kreetika kISHORE
+- Kreetika Kishore
